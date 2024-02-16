@@ -15,9 +15,29 @@
 	justify-content: center;
 }
 .container{
-	height: 400px;
+	height: 350px;
 	width: 300px;
 	box-shadow: 0px 0px 20px gray;
 	border-radius: 30px;
 	padding: 20px;
+}
+input[type="text"]{
+	width: 220px;
+	height: 30px;
+	font-weight: 900;
+}
+.mainform{
+	
+}
+.heading{
+	color: violet;
+}
+.name{
+	color: orangered;
+	font-weight: bolder;
+}
+.img{
+	align-items: center;
+	
+
 }
