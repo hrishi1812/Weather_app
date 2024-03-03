@@ -26,8 +26,16 @@ input[type="text"]{
 	height: 30px;
 	font-weight: 900;
 }
-.mainform{
-	
+.btn{
+margin-top: -29px;
+margin-left: 230px;
+
+}
+.src_btn{
+	border: none;
+	background-color: transparent;
+	padding-top: 5px;
+	cursor: pointer;
 }
 .heading{
 	color: violet;
